@@ -1,3 +1,31 @@
+.navbar {
+  height: 75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: solid;
+  border-width: 1px;
+  position: fixed;
+  width:100%;
+  top: 0px;
+  left: 0px;
+  background-color: aquamarine;
+  
+
+}
+.middle-section {
+  background-color: whitesmoke;
+  flex: .5;
+  text-align: center;
+  border: solid;
+  border-width: 1px;
+}
+.right-section {
+  width: 150px;
+
+
+}
+
 .row {
     display: flex;
     padding: 0 4px;
@@ -8,6 +36,8 @@
     width: 25.33%;
     padding: 5px;
     background-color: turquoise;
+    border: solid;
+    border-width: 1px;
   }
   
 .column img {
