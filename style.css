@@ -37,6 +37,7 @@
     background-color: turquoise;
     border: solid;
     border-width: 1px;
+    font-size: 20px;
   }
   
 .column img {
@@ -53,3 +54,15 @@
     }
   }
   
+.bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-evenly;
+  font-size: 20px;
+   
+
+}
+.bb {
+  width: fit-content;
+  background-color: lightgrey;
+}
