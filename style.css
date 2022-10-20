@@ -19,6 +19,7 @@
   text-align: center;
   border: solid;
   border-width: 1px;
+  
 }
 .right-section {
   width: 150px;
@@ -32,7 +33,7 @@
     padding: 0 4px;
   }
 
-  .column {
+  .column  {
     float: left;
     width: 25.33%;
     padding: 5px;
@@ -80,4 +81,9 @@ a:hover{
 }
 p:hover{
   font-size: 28px;
+}
+
+.snake {
+  margin-top: 13px;
+
 }
