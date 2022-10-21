@@ -64,10 +64,10 @@
 }
 .bb {
   width: fit-content;
-  background-color: lightgrey;
   text-align: center;
   margin-left: 30px;
   padding-left: 30px;
+  color: aquamarine;
   
 }
 .bb1{
@@ -96,5 +96,11 @@ p:hover{
    position: relative;
    left: 35px;
    background-color: yellow;
+   color: orangered;
  
+}
+button:hover{
+
+  background-color: crimson;
+  color: black;
 }
