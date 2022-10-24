@@ -97,10 +97,11 @@ p:hover{
    background-color: yellow;
    color: orangered;
    font-size: 15px;
+   border-radius: 8px;
  
 }
 button:hover{
-
+  border-radius: 14px;
   background-color: crimson;
   color: black;
 }
