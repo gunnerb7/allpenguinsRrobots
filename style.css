@@ -83,6 +83,7 @@ body{
 }
 a{
   color: lightseagreen;
+  text-decoration: none;
 }
 a:hover{
   color:blueviolet
@@ -92,10 +93,10 @@ p:hover{
 }
 
 .snake {
-   position: relative;
-   left: 35px;
+
    background-color: yellow;
    color: orangered;
+   font-size: 15px;
  
 }
 button:hover{
@@ -104,8 +105,7 @@ button:hover{
   color: black;
 }
 .calculator {
-  position: relative;
-  left: 35px;
+  font-size: 12;
   background-color: blue;
   color: yellowgreen;
 }
