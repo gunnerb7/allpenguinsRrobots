@@ -114,3 +114,10 @@ button:hover {
   background-color: blue;
   color: yellowgreen;
 }
+
+footer {
+  background-color: crimson;
+  text-align: center;
+  font-size: 30px;
+
+}
