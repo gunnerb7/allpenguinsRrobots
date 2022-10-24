@@ -92,7 +92,6 @@ p:hover{
 }
 
 .snake {
-   margin-top: 22px;
    position: relative;
    left: 35px;
    background-color: yellow;
@@ -103,4 +102,10 @@ button:hover{
 
   background-color: crimson;
   color: black;
+}
+.calculator {
+  position: relative;
+  left: 35px;
+  background-color: blue;
+  color: yellowgreen;
 }
