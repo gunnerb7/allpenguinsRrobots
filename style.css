@@ -88,13 +88,14 @@ body {
   text-decoration: none;
   font-size: 14px;
 }
-a:hover {
+.right-section a:hover {
   color:blueviolet;
   font-size: 20px;
   background-color: azure;
 }
 p:hover {
   font-size: 28px;
+  
 }
 
 .snake {
@@ -141,4 +142,15 @@ footer {
     
   }
  
+}
+footer img {
+  width: 30px;
+  height: 30px;
+  padding-top: 9px;
+  padding-bottom: 0px;
+  
+}
+footer img:hover {
+  filter: opacity(65%);
+  
 }
